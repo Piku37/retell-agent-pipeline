@@ -6,21 +6,21 @@ An automated pipeline to convert call transcripts into structured account memos 
 
 ## Table of Contents
 
-* [What is this project?](https://www.google.com/search?q=%23what-is-this-project)
-* [High-level architecture & data flow](https://www.google.com/search?q=%23high-level-architecture--data-flow)
-* [Features](https://www.google.com/search?q=%23features)
-* [Repository layout](https://www.google.com/search?q=%23repository-layout)
-* [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-* [Quickstart — run locally (development)](https://www.google.com/search?q=%23quickstart--run-locally-development)
-* [n8n orchestration (Docker)](https://www.google.com/search?q=%23n8n-orchestration-docker)
-* [API endpoints (FastAPI)](https://www.google.com/search?q=%23api-endpoints-fastapi)
-* [How the pipeline works — step-by-step](https://www.google.com/search?q=%23how-the-pipeline-works--step-by-step)
-* [Configuration & environment variables](https://www.google.com/search?q=%23configuration--environment-variables)
-* [CI (GitHub Actions) example](https://www.google.com/search?q=%23ci-github-actions-example)
-* [Troubleshooting & tips](https://www.google.com/search?q=%23troubleshooting--tips)
+* [What is this project?](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#what-is-this-project)
+* [High-level architecture & data flow](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#high-level-architecture--data-flow)
+* [Features](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#features)
+* [Repository layout](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#repository-layout)
+* [Prerequisites](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#prerequisites)
+* [Quickstart — run locally (development)](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#quickstart--run-locally-development)
+* [n8n orchestration (Docker)](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#n8n-orchestration-docker)
+* [API endpoints (FastAPI)](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#api-endpoints-fastapi)
+* [How the pipeline works — step-by-step](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#how-the-pipeline-works--step-by-step)
+* [Configuration & environment variables](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#configuration--environment-variables)
+* [CI (GitHub Actions) example](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#ci-github-actions-example)
+* [Troubleshooting & tips](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#troubleshooting--tips)
 * [Next improvements & roadmap](https://www.google.com/search?q=%23next-improvements--roadmap)
-* [Screenshots](https://www.google.com/search?q=%23screenshots)
-* [License & credits](https://www.google.com/search?q=%23license--credits)
+* [Screenshots](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#screenshots)
+* [License & credits](https://github.com/Piku37/retell-agent-pipeline/tree/main?tab=readme-ov-file#contribution--development-notes)
 
 ---
 
@@ -695,4 +695,5 @@ jobs:
 *docker container running n8n*
 
 <img src="https://github.com/Piku37/retell-agent-pipeline/blob/b37e4f442cb2f85a073caad21a3a63b75540a40b/docs/screenshots/docker-container.png" alt = 'docker conatiner running n8n' width='50%'>
+
 
