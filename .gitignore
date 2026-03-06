@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+
+# Logs
+logs/
+
+
+
+# n8n files
+.n8n/
+
+# OS
+.DS_Store
+Thumbs.db

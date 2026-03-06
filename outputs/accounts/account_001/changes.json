@@ -1,0 +1,17 @@
+{
+    "routing_rules": {
+        "old": {
+            "emergency": "transfer_to_human"
+        },
+        "new": {}
+    },
+    "questions_or_unknowns": {
+        "old": [],
+        "new": [
+            "company_name not found",
+            "services_supported not found",
+            "business_hours not found",
+            "emergency_definition not found"
+        ]
+    }
+}

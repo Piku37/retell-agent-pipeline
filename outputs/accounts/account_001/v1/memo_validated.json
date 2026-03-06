@@ -1,0 +1,22 @@
+{
+  "company_name": null,
+  "contact_name": "Ben",
+  "contact_email": [
+    "Ben@Benselectricsolutionsteam.com"
+  ],
+  "contact_phone": [
+    "4039751773"
+  ],
+  "services_supported": [
+    "hot tub",
+    "electrical",
+    "installation",
+    "electrician",
+    "maintenance",
+    "ev charger",
+    "panel change",
+    "plumbing"
+  ],
+  "business_hours": null,
+  "emergency_definition": "The calls that kept coming in, because these are emergency calls as well"
+}
